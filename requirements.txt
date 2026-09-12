@@ -2,4 +2,4 @@ streamlit
 pandas==3.0.5
 scikit-learn==1.6.1
 xgboost==3.0.2
-numpy==2.2.2
+numpy==2.3.5
